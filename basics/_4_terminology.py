@@ -26,4 +26,8 @@ Triple quotes are used while writing docstrings.
 The docstrings are associated with the object as their __doc__ attribute.
 <object>.__doc__
 
+Suite: A group of individual statements, which make a single code block.
+Header: Lines begin the statement (with the keyword) and terminate with a colon (:)
+Compound or complex statements, such as if, while, def, and class require a header line and a suite.
+
 """
