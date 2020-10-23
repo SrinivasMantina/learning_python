@@ -1,0 +1,28 @@
+{
+    "employees": [
+        {
+            "user_id": "rirani",
+            "first_name": "Romin",
+            "last_name": "Irani",
+            "full_name": "Romin Irani",
+            "email_address": "romin.rani@email.com",
+            "pay": 15000
+        },
+        {
+            "user_id": "nirani",
+            "first_name": "Neil",
+            "last_name": "Irani",
+            "full_name": "Neil Irani",
+            "email_address": "neil.irani@email.com",
+            "pay": 15000
+        },
+        {
+            "user_id": "thanks",
+            "first_name": "Tom",
+            "last_name": "Hanks",
+            "full_name": "Tom Hanks",
+            "email_address": "tom.hanks@email.com",
+            "pay": 15000
+        }
+    ]
+}
